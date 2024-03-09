@@ -36,7 +36,7 @@ Utilized Scikit-Learn library for evaluation metrics:
 - Accuracy, Precision, Recall, F1-Score.
 
 ## Implementation Details
-- Main script: `stellar_classification.py`.
+- Main scripts: `stellar_classification.ipynb`, `stellar_classification.py`.
 - Dependencies: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`.
 
 ## How to Run the Code
